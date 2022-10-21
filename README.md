@@ -2,7 +2,16 @@
 Use this Repository as a template for creating Local Chapter Repositories
 
 
-# [Chapter Challenge Name]
+# [Omdena Nairobi, Kenya Chapter: Using AI/ML to tackle Climate Change]
+
+This project aims to study the value of satellite observations of the column CO2 concentrations to estimate CO2 anthropogenic emissions within five years of the Orbiting Carbon Observatory-2 (OCO-2) retrievals over and around Kenya. Our focus here is on the direct observation of carbon dioxide (CO2) emissions from space and on the quantification of CO2 emissions from this observation independently. 
+
+
+We use NASA’s OCO2 and OCO3 Satellite data and publicly available data on critical CO2 emitting sectors e.g. power plants, steel mills , cement plants, atmospheric “spillover” from agricultural and forest fires, traffic emissions, demographic and economic variables etc to build an AI model that predicts the contribution from each sector. 
+
+This CO2 emissions model could be used to track progress for large and small cities, subregions or project areas within Kenya which can be used to support decarbonization efforts
+
+
 
 
 ## Contribution Guidelines
