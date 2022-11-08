@@ -1,0 +1,24 @@
+country_long,name,gppd_idnr,capacity_mw,latitude,longitude,primary_fuel,commissioning_year
+Kenya,Garissa,WKS0062186,55.7,-0.35,39.605,Solar,
+Kenya,Gitaru,WRI1000039,225,-0.7967,37.7497,Hydro,1978
+Kenya,Iberafrica I & II (Nairobi south diesel PP),WRI1061216,109,-1.2431,36.8905,Oil,
+Kenya,Kamburu,WRI1000040,94.2,-0.8093,37.6867,Hydro,1974
+Kenya,Kiambere,WRI1000041,168,-0.64,37.91,Hydro,1987
+Kenya,Kindaruma,WRI1000042,72,-0.806,37.811,Hydro,1968
+Kenya,Kipevu I,WRI1000050,74,-4.04,39.638,Oil,2011
+Kenya,Kipevu II (Tsavo),WRI1000051,74.5,-4.0379,39.6333,Oil,2001
+Kenya,Kipevu III,WRI1000052,120,-4.0379,39.6333,Oil,1999
+Kenya,Lake Turkana,WRI1000054,310,2.6447,36.7378,Wind,2017
+Kenya,Masinga,WRI1000043,40,-0.879,37.588,Hydro,1980
+Kenya,Ngong,WRI1061215,25.5,-1.3811,36.6356,Wind,1993
+Kenya,Olkaria I,WRI1000048,45,-0.8893,36.2557,Geothermal,1981
+Kenya,Olkaria I,WRI1061218,185,-0.8933,36.3086,Geothermal,1981
+Kenya,Olkaria I units 4 & 5,WRI1061219,140,-0.891,36.2961,Geothermal,2015
+Kenya,Olkaria II,WRI1061221,105,-0.8644,36.2985,Geothermal,1982
+Kenya,Olkaria III (Orpower 4),WRI1061220,139,-0.8905,36.2892,Geothermal,2015
+Kenya,Olkaria IV,WRI1061217,140,-0.9186,36.3338,Geothermal,2014
+Kenya,Rabai,WRI1061214,90,-3.9334,39.5626,Oil,2009
+Kenya,Sondu Miru,WRI1061222,60,-0.3426,34.8521,Hydro,2007
+Kenya,Tana,WRI1000046,20,-0.7854,37.2654,Hydro,2011
+Kenya,Thika,WRI1061223,88,1.0605,37.0508,Oil,2012
+Kenya,Turkwel,WRI1000047,106,1.9138,35.3443,Hydro,1990
