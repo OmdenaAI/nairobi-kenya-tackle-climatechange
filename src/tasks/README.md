@@ -11,8 +11,8 @@ Note : Please Follow the below guidelines to create task folders
 
 | Task No| Task Name | Details |
 |-|-|-|
-|1|         |         |
-|2|         |         |
-|3|         |         |
-|4|         |         |
-|5|Political Rationale| The entire basis of the political rationale is to create a document upon which we could use as a basis to know if the direction of our current application is viable or not|
+|0|    Knowledge     |    This task repository contains research outputs categorized as either "Paper", "Blog post/article", "Video", "Model", "Dataset", "Reference source" and their relevance to the project etc.    |
+|1|   Data Analysis & Preprocessing      |     This task repository contains all the Jupyter Notebooks showing exploratory data analysis, feature engineering and data manipulation   |
+|2|   Modelling      |    This task repository contains all the modelling outputs arising from modelling the project     |
+|4|   Deployment      |  This task repository contains all the REST/FLASK APIs used to build the dashboards that the developer community will use to interact with the project    |
+|5|Political Rationale| The task repo contains the project statement that forms the entire basis of working on this project|
