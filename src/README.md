@@ -3,7 +3,7 @@
 
     ├── src                <- Source code folder for this project
         | 
-        |── idea           <- Idea
+        |── .idea           <- .idea
         │
         ├── data           <- Datasets used and collected for this project
         │   
