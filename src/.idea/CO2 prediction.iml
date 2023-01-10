@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/artifact" />
+      <excludeFolder url="file://$MODULE_DIR$/Cement_data" />
+      <excludeFolder url="file://$MODULE_DIR$/City_data" />
+      <excludeFolder url="file://$MODULE_DIR$/logs" />
+      <excludeFolder url="file://$MODULE_DIR$/Population" />
+      <excludeFolder url="file://$MODULE_DIR$/PowerPlant" />
+      <excludeFolder url="file://$MODULE_DIR$/Raw_data_to_csv_data" />
+      <excludeFolder url="file://$MODULE_DIR$/nc4_data" />
+      <excludeFolder url="file://$MODULE_DIR$/fire_data" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.6 (CO2 prediction)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+</module>
