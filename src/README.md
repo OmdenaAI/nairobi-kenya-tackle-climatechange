@@ -2,6 +2,8 @@
 
 
     ├── src                <- Source code folder for this project
+        | 
+        |── .idea           <- .idea
         │
         ├── data           <- Datasets used and collected for this project
         │   
@@ -16,6 +18,7 @@
         └── results        <- Folder to store Final analysis and modelling results and code.
 
 
+<!--
 ## Guidelines
 
 - Data              - Folder to Store all the data collected and used for this project 
@@ -27,3 +30,4 @@
   - All Task folders should have a README.md file with task Details and task goals along with an info table containing all code/notebook files with their links and information
 - Visualization     - Folder to store dashboards, analysis and visualization reports
 - Results           - Folder to store final analysis modelling results for the project.
+-->

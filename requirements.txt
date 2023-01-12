@@ -1,0 +1,16 @@
+pandas
+numpy
+dataclasses
+matplotlib
+netCDF4
+seaborn
+xarray
+pymongo
+pymongo[srv]
+PyYAML
+python-dotenv
+sklearn
+scikit-learn
+scipy
+setuptools
+-e .
